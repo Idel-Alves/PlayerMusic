@@ -1,9 +1,9 @@
 let musics = [
-    {title:"A Flute's Mourning", artist:"Aakash Gandhi", src:"SRC/A Flute's Mourning - Aakash Gandhi.mp3", img:"ASSETS/james-owen-oFHMk5fD8-s-unsplash-AFlutes.jpg"},
+    {title:"A Flute's Mourning", artist:"Aakash Gandhi", src:"./SRC/A Flute's Mourning - Aakash Gandhi.mp3", img:"./ASSETS/james-owen-oFHMk5fD8-s-unsplash-AFlutes.jpg"},
 
-    {title:"Savior", artist:"Telecasted", src:"/SRC/Savior - Telecasted.mp3", img:"/ASSETS/jacek-dylag-hUHzaiAHuUc-unsplash-Savior.jpg"},
+    {title:"Savior", artist:"Telecasted", src:"./SRC/Savior - Telecasted.mp3", img:"./ASSETS/jacek-dylag-hUHzaiAHuUc-unsplash-Savior.jpg"},
     
-    {title:"Searching For Time", artist:"Telecasted", src:"/SRC/Searching For Time - Telecasted.mp3", img:"ASSETS/ana-grave-gHcWaeldgtQ-unsplash-ForTime.jpg"}
+    {title:"Searching For Time", artist:"Telecasted", src:"./SRC/Searching For Time - Telecasted.mp3", img:"./ASSETS/ana-grave-gHcWaeldgtQ-unsplash-ForTime.jpg"}
 ]
 
 const playBtn = document.querySelector('.playBtn');
